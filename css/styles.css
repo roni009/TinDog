@@ -8,10 +8,18 @@ h1 {
   font-weight: bold;
   margin: 0 5% 5% 0;
 }
+h3{
+  font-weight: bold;
+  font-size: 1.5rem;
+}
 
 #title {
   background-color: #ff4c68;
   color: white;
+}
+#features{
+  padding: 3% 15%;
+  text-align: center;
 }
 
 .container-fluid {
@@ -47,4 +55,7 @@ h1 {
   transform: rotate(25deg);
   width: 60%;
 
+}
+.feature-paragraph{
+  color: #8f8f8f;
 }
