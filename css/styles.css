@@ -114,6 +114,10 @@ h3 {
 /* pricing-sections */
 #pricing {
   text-align: center;
+  padding: 100px;
+}
+.pricing-card{
+  padding: 3% 2%;
 }
 
 #cta {
